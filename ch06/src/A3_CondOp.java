@@ -8,10 +8,9 @@ public class A3_CondOp {
 		int num2 = 100;
 		
 		int big;
-		int diff;
 		
 		big = (num1 > num2) ? num1 : num2;
-		System.out.println("ū �� : " + big);
+		System.out.println("ㅇㅅㅇ : " + big);
 		
 		
 	}
